@@ -20,7 +20,7 @@ If you encounter difficulties installing OpenCV or dlib, you can refer to these 
 
 Place the trained dlib model 'shape_predictor_68_face_landmarks.dat' inside the subfolder 'models'
 
-To run, python 'speakingeye.py"
+To run, python speakingeye.py
 
 
 # Special Thanks
